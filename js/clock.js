@@ -14,5 +14,6 @@ function clockTimer()
 	clock.innerHTML = current_time;
 	
 	
+	
 	setTimeout("clockTimer()", 1000);
 }
