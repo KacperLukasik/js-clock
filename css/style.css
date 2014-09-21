@@ -17,3 +17,9 @@ body
 	border-top: 10px solid #55c49f;
 	margin-top: 100px;
 }
+#dayOfWeek
+{
+	display: block;
+	font-weight: normal;
+	font-size: 18px;
+}
